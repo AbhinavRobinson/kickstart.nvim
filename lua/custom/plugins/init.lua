@@ -9,4 +9,6 @@ return {
   require 'custom.plugins.flash',
   require 'custom.plugins.tmux-navigator',
   require 'custom.plugins.toggleterm',
+  require 'custom.plugins.comment',
+  require 'custom.plugins.noice',
 }
