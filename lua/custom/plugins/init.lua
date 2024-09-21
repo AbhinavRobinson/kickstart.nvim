@@ -3,6 +3,7 @@
 --
 -- See the kickstart.nvim README for more information
 return {
+  require 'custom.plugins.alpha',
   require 'custom.plugins.cokeline',
   require 'custom.plugins.file-browser',
   require 'custom.plugins.flash',
