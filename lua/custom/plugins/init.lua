@@ -11,4 +11,5 @@ return {
   require 'custom.plugins.toggleterm',
   require 'custom.plugins.comment',
   require 'custom.plugins.noice',
+  require 'custom.plugins.leetcode',
 }
