@@ -1,0 +1,20 @@
+-- return {
+--   'pmizio/typescript-tools.nvim',
+--   dependencies = { 'nvim-lua/plenary.nvim', 'neovim/nvim-lspconfig' },
+--   opts = {
+--     {
+--       settings = {
+--         tsserver_format_options = {
+--           insertSpaceBeforeTypeAnnotation = true,
+--           baseIndentSize = 4,
+--           indentSize = 4,
+--           tabSize = 4,
+--           convertTabsToSpaces = false,
+--           trimTrailingWhitespace = true,
+--         },
+--       },
+--     },
+--   },
+-- }
+--
+return {}

@@ -11,5 +11,11 @@ return {
   require 'custom.plugins.toggleterm',
   require 'custom.plugins.comment',
   require 'custom.plugins.noice',
+  require 'custom.plugins.package-info',
+  require 'custom.plugins.transparent',
+  require 'custom.plugins.poetry',
   require 'custom.plugins.leetcode',
+  require 'custom.plugins.horizon',
+  -- require 'custom.plugins.typescript-tools',
+  -- require 'custom.plugins.tiny',
 }
